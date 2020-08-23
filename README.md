@@ -14,11 +14,7 @@ The following effort was part of a greater project to investigate if there had b
 
 **Packages:** BeautifulSoup, request, csv, json, itertools, nltk, pandas, numpy, sklearn 
 
-**TwitterScraper Page:** https://github.com/taspinar/twitterscraper
-
-**K-Means Clustering:** Making Sense of Text Data Using Unsupervised Learning: https://towardsdatascience.com/k-means-clustering-8e1e64c1561c
-
-**Text Data Cleaning in Python | How to clean text data in python:** https://www.youtube.com/watch?v=KhXU7KOxQcg&t=4s
+**MyFitnessPal *What We're Eating* Discussion Board:** https://community.myfitnesspal.com/en/discussion/10703170/what-were-eating/p1
 
 ### Web Scraping
 
@@ -37,5 +33,7 @@ Then, I processed the post column in the scraped data set through a [NLP Pipelin
 ![alt text](https://github.com/MarcelinoV/HATLab_REU/blob/master/Images/top_20_words_stats.JPG "Part 2: Top Features Snippet")
 
 ### Food-to-Calorie Converter
+
+
 
 ### Productionization Ideas
