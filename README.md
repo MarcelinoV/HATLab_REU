@@ -10,7 +10,7 @@ The following effort was part of a greater project to investigate if there had b
 
 ### Code and Resources Used
 
-**Python Version:** 3.6-3.8
+**Python Version:** 3.6-3.7.7
 
 **Packages:** BeautifulSoup, requests, csv, json, itertools, nltk, pandas, numpy, sklearn 
 
