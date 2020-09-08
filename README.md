@@ -30,7 +30,7 @@ This is the resulting data set:
 
 ### NLP - Text Processing
 
-Then, I processed the post column in the scraped data set through a [NLP Pipeline](https://github.com/MarcelinoV/HATLab_REU/blob/master/Data_Scraping_Project/Web_Scraper/scraper1.py). I used the **NLTK** library to process the text data into a more filtered format. The following is some of the top words used in the text data with their descriptive statistics:
+Then, I processed the post column in the scraped data set through a [NLP Pipeline](https://github.com/MarcelinoV/HATLab_REU/blob/master/Data_Scraping_Project/NLP_Text_Processing/NLP_Function.py). I used the **NLTK** library to process the text data into a more filtered format. The following is some of the top words used in the text data with their descriptive statistics:
 
 ![alt text](https://github.com/MarcelinoV/HATLab_REU/blob/master/Images/top_20_words_stats.JPG "Part 2: Top Features Snippet")
 
