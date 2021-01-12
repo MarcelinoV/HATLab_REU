@@ -8,8 +8,8 @@ from itertools import cycle
 
 # Demo code ---------------------------------
 '''
-api_id = '2aaffc7c'
-api_key = '2ca7df59e0482b12ce395f5c05b9ce2d'
+api_id = 'XXXXXX'
+api_key = 'XXXXXXXXXXXXXXXXXXXXXX'
 '''
 # --------------------------------------------
 
@@ -20,13 +20,13 @@ url = 'https://trackapi.nutritionix.com/v2/natural/nutrients'
 data = pd.read_csv(input('Enter file name: ') + '.csv')
 
 # API ids and keys to be called
-ids_keys = {'2aaffc7c': '2ca7df59e0482b12ce395f5c05b9ce2d',
-            '6cdf83f2': '562c5a60e7c20a7a778ad7ec5d07fc13',
-            '577017cb': 'bcff72e3cb2ecdfbd32cce704114be3a',
-            '1810350d': '5c910a5de49352d91f933255d1bea93f',
-            'f40f53a0': '8e446c56e1ef8c50b71b3d6ef25e4b89',
-            '9a8695b6': '575d96daf6d3776a31a88cff1c2b50e6',
-            'b2603522': '890a5bcbd218f6c4e31c7d7a0267f199'}
+ids_keys = {'XXXXXX': 'XXXXXXXXXXXXXXXXXXXXXX',
+            'XXXXXX': 'XXXXXXXXXXXXXXXXXXXXXX',
+            'XXXXXX': 'XXXXXXXXXXXXXXXXXXXXXX',
+            'XXXXXX': 'XXXXXXXXXXXXXXXXXXXXXX',
+            'XXXXXX': 'XXXXXXXXXXXXXXXXXXXXXX',
+            'XXXXXX': 'XXXXXXXXXXXXXXXXXXXXXX',
+            'XXXXXX': 'XXXXXXXXXXXXXXXXXXXXXX'}
 
 # Manual Food Bank in a set to check if words are food.
 food = {'waffle', 'apple', 'cheese', 'muffin', 'soup', 'coffee', 'butter', 'ham', 'syrup', 'tortilla',
